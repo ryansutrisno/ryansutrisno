@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Company
+- 🔭 I’m currently working on Software Agency Company
 - 🌱 I’m currently learning Frontend Technology
 - 👯 I’m looking to collaborate on open source project
 - 🤔 I’m looking for help with some developers
@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ryansutrisno&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+### 🔖Holopin Badge
+[![@ryansutrisno's Holopin board](https://holopin.me/ryansutrisno)](https://holopin.io/@ryansutrisno)
 
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ryansutrisno) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RyanSutrisno) 
