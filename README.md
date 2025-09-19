@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Software Agency Company
+- 🔭 I’m currently working on Software Company
 - 🌱 I’m currently learning Frontend Technology
 - 👯 I’m looking to collaborate on open source project
 - 🤔 I’m looking for help with some developers
